@@ -3,6 +3,9 @@ import boto3
 import json
 import pandas as pd
 
+pip install --upgrade pip setuptools wheel
+pip install -r requirements.txt
+
 # 🔹 Replace with your actual endpoint name
 ENDPOINT_NAME = "HW3-pipeline-endpoint-auto"
 REGION = "us-east-1"
