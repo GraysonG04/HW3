@@ -5,7 +5,7 @@ import pandas as pd
 
 
 # 🔹 Replace with your actual endpoint name
-ENDPOINT_NAME = "HW3-pipeline-endpoint-auto"
+ENDPOINT_NAME = "logistic-pipeline-endpoint-auto-7"
 REGION = "us-east-1"
 
 # Create SageMaker runtime client
